@@ -6,7 +6,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a catguy. \
+💡 &nbsp; I'm a catguy and a good boy. \
 💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns. \
 🎓&nbsp;I will graduate from Army Institute of Technolody, Pune. \
 🌱 &nbsp;I'm on track for learning more about WebD along with asset creation and designing. \
